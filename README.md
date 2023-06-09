@@ -5,7 +5,7 @@
 ![Code](https://img.shields.io/badge/code-15%20hrs-red)
 
 - Currently Learning:
-  - Java
+  - C#
   - Docker
   - C/C++ 
   - Python
