@@ -10,3 +10,11 @@
   - C/C++ 
   - Python
   - kubernetes
+
+- Participation in projects during education:
+  - ProcTrack [ASP.NET Core, Typescript, Docker, Minio, Nginx] - a system for tracking business processes;
+  - UStore [ASP.NET Core, Python, Typescript, Docker, Minio, Nginx] - Online store in Telegram and CRM system;
+  - Localboard [FastAPI, Docker, k8s, aiogram] - Bulletin board in Telegram;
+  - LikeFaceApp bot [aiogram, RabbitMq, Docker, k8s] - A bot that applies various filters to people's face images;
+  - TrueTechHack [C++, React] - A service that processes streaming video for people suffering from epilepsy or color blindness;
+  - VTB API hackathon [FastAPI, Docker] - API for identifying GOST encryption algorithms.
