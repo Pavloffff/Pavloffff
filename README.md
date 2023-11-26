@@ -12,7 +12,7 @@
   - kubernetes
 
 - Participation in projects during education:
-  - ProcTrack [ASP.NET Core, Typescript, Docker, Minio, Nginx] - a system for tracking business processes;
+  - ProcTrack [ASP.NET Core, Typescript, Docker, Minio, Nginx] - A system for tracking business processes;
   - UStore [ASP.NET Core, Python, Typescript, Docker, Minio, Nginx] - Online store in Telegram and CRM system;
   - Localboard [FastAPI, Docker, k8s, aiogram] - Bulletin board in Telegram;
   - LikeFaceApp bot [aiogram, RabbitMq, Docker, k8s] - A bot that applies various filters to people's face images;
