@@ -6,7 +6,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Developer from Russia.
 
 ---
