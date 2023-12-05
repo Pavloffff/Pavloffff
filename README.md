@@ -7,7 +7,7 @@
 ---
 
 ### About Me :
-I am a Developer from Russia.
+Developer, student of the Moscow Aviation Institute, department 806, passionate about backend, algorithms, and DevOps. 
 
 ---
 
