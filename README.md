@@ -53,7 +53,7 @@ Developer, student of the Moscow Aviation Institute, department 806, passionate 
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pavloffff&theme=react)](https://git.io/streak-stats)
 
