@@ -7,7 +7,9 @@
 ---
 
 ### About Me :
-Developer, student of the Moscow Aviation Institute, department 806, passionate about backend, algorithms, and DevOps. 
+Developer, student of the Moscow Aviation Institute, department 806, passionate about backend, algorithms, and DevOps.
+
+Currently work as python developer.
 
 ---
 
