@@ -15,6 +15,7 @@ Currently work as python developer.
 
 
 - Currently Learning:
+  - Go
   - Python
   - Docker
   - Linux
