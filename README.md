@@ -7,7 +7,7 @@
 ---
 
 ### About Me :
-Pythhon & Go backend developer, Kaspersky
+Python & Go backend developer, Kaspersky
 
 Bachelor of the Moscow Aviation Institute
 
