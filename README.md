@@ -7,9 +7,11 @@
 ---
 
 ### About Me :
-Student of the Moscow Aviation Institute, department 806.
+Pythhon & Go backend developer, Kaspersky
 
-Currently work as python developer.
+Bachelor of the Moscow Aviation Institute
+
+Linux enjoyer
 
 ---
 
